@@ -1149,6 +1149,22 @@ footer .credits a {
   outline: 0;
 }
 
+#purchasebutton{
+  background-color: #0078FF;
+  border-radius: 10px;
+  width: 30%;
+  height: auto;
+  margin: auto;
+
+}
+.purchasebutton{
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  
+  
+}
+
 .button:hover {
   background-color: #0062d3;
   color: #fff;
